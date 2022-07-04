@@ -1,0 +1,5 @@
+*
+!*.cpp
+!*/
+!.gitignore
+Sorting_and_Searching/cmake-build-debug/
